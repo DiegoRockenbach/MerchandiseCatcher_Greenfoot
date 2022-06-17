@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=background
+comment1.params=
+comment1.target=background()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ criadorBanana()
+comment4.params=
+comment4.target=void\ criadorBread()
+comment5.params=
+comment5.target=void\ criadorOrange()
+numComments=6
